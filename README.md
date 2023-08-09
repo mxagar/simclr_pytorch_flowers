@@ -1,6 +1,6 @@
 # SimCLR Implementation with Pytorch and Applied to the Kaggle Flowers Dataset
 
-[SimCLR](https://arxiv.org/abs/2002.05709) model which is able to produce image representations using contrastive learning. The model is implemented with PyTorch and uses the Flowers dataset from Kaggle.
+[SimCLR](https://arxiv.org/abs/2002.05709) model which is able to produce image representations using contrastive learning. The model is implemented with PyTorch and uses the [Flowers dataset](https://www.kaggle.com/datasets/imsparsh/flowers-dataset) from Kaggle.
 
 Everything is implemented in the notebook [`simclr_pytorch_flowers.ipynb`](./simclr_pytorch_flowers.ipynb).
 
