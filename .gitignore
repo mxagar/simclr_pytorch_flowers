@@ -162,4 +162,5 @@ cython_debug/
 # Added
 .vscode
 data
-output_flowers
+datasets
+output_flowers/*.pth
