@@ -4,6 +4,8 @@
 
 Everything is implemented in the notebook [`simclr_pytorch_flowers.ipynb`](./simclr_pytorch_flowers.ipynb).
 
+To see a visualization of the embedding vectors created with the model, check my other repository[tool_guides/tensorboard](https://github.com/mxagar/tool_guides/tree/master/tensorboard).
+
 ## Setup
 
 I used my NVIDIA RTX 3060 as an eGPU on Windows 10.
